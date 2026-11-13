@@ -1,0 +1,14 @@
+# Large media (GitHub limit is 100 MB per file)
+*.mp4
+*.mov
+*.avi
+
+# Model weights (Ultralytics downloads these automatically)
+*.pt
+
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
