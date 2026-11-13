@@ -14,7 +14,7 @@ TARGET_CLASSES = [2, 3, 5, 7]
 
 # Counting Line [x1, y1, x2, y2]
 # Adjust these numbers if the line doesn't match your road!
-LINE_COORDINATES = [0, 1000, 4000, 1000]
+LINE_COORDINATES = [0, 500, 2000, 500]  # for the 1920x1080 video
 
 # Storage for Counts
 total_counts = {2: [], 3: [], 5: [], 7: []}

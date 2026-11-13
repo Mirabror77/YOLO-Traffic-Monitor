@@ -1,7 +1,5 @@
-# Large media (GitHub limit is 100 MB per file)
-*.mp4
-*.mov
-*.avi
+# Original 4K video is too big for GitHub (repo has a 1080p copy)
+traffic_intersection_4k.mp4
 
 # Model weights (Ultralytics downloads these automatically)
 *.pt
